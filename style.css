@@ -1,0 +1,14 @@
+.pausado{
+    color: red
+}
+
+#p{
+    text-align: center;
+    border-color: aqua;
+    font-size: 100px;
+}
+
+body {
+    justify-content: center;
+    margin-left: 40%;
+}
